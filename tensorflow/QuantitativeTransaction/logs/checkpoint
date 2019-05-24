@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Cila\\Desktop\\tensorflow\\QuantitativeTransaction\\logs\\GDC_ANN"
+all_model_checkpoint_paths: "C:\\Users\\Cila\\Desktop\\tensorflow\\QuantitativeTransaction\\logs\\GDC_ANN"
